@@ -66,7 +66,7 @@ Alternate configurations can be specified by passing path to the `env` file, e.g
 ./stop.sh .kovan.env
 ```
 
-##### Development
+##### Development 
 
 You can change source code on your host machine, restart service and changes will be automatically applied inside Docker container.
 E.g change code for `graphql` project then issue `docker restart graphql`

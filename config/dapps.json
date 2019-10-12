@@ -20,6 +20,18 @@
       ]
     },
     {
+      "id": "eth2dai",
+      "desc": "eth2dai oasis",
+      "deployments": [
+        {
+          "desc": "eth2dai oasis",
+          "chain": "mainnet",
+          "key": "0x39755357759ce0d7f32dc8dc45414cca409ae24e",
+          "firstBlock": 7183773
+        }
+      ]
+    },
+    {
       "id": "erc20",
       "desc": "ERC20 Token",
       "deployments": [
