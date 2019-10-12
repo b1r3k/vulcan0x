@@ -1,4 +1,4 @@
-CREATE TYPE api.oasis_market AS (
+CREATE TYPE api.eth2dai_market AS (
   id         varchar,
   base       varchar,
   quote      varchar,
