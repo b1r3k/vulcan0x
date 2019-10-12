@@ -1,5 +1,3 @@
-CREATE SCHEMA api;
-
 CREATE VIEW api.eth2dai_offer AS
 SELECT
   o.id,
